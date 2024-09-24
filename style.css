@@ -1,0 +1,33 @@
+body {
+    background-color: #0b4050;
+    color: white;
+    font-family: "Signika Negative", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #2388a7;
+    color: white;
+    font-family: "Signika Negative", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
